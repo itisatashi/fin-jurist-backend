@@ -1,0 +1,6 @@
+echo "__pycache__/" > .gitignore
+echo "*.pyc" >> .gitignore
+echo ".env" >> .gitignore
+echo "fin_jurist.db" >> .gitignore
+echo "uploads/" >> .gitignore
+echo "*.log" >> .gitignore
